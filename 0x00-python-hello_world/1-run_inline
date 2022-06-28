@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PYCODE | Best School: 98
+echo $PYCODE | python3
